@@ -10,4 +10,7 @@ public class LoanController {
 	public void newFeature2() {
 		System.out.println("new feature2 is implemented");
 	}
+	public void newFeature2Method() {
+		System.out.println("new feature2 is implemented");
+	}
 }	
